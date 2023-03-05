@@ -1,3 +1,0 @@
-I am a senior researcher at [Hitachi, Ltd.](https://www.hitachi.com/) Research & Development Group, working on developing computer vision technologies. I am currently sent to [Hitachi America, Ltd.](https://www.hitachi.us/), a subsidiary of Hitachi, Ltd. in the US, and work with researchers in the US to extend the developed technologies.
-
-I previously studied digital circuit design at the [Ikeda Lab](http://www.mos.t.u-tokyo.ac.jp/en/) of [the University of Tokyo](https://www.u-tokyo.ac.jp/en/), where I received BE and ME degrees under the supervision of [Prof. Makoto Ikeda](http://www.mos.t.u-tokyo.ac.jp/~ikeda/).

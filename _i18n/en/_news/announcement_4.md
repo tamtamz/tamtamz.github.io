@@ -1,1 +1,0 @@
-Our book "[Image Recognition with Python](https://www.amazon.co.jp/Python%E3%81%A7%E5%AD%A6%E3%81%B6%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E7%94%B0%E6%9D%91%E9%9B%85%E4%BA%BA/dp/4295015997)" is published.

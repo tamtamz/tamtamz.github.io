@@ -1,1 +1,0 @@
-[Our paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640018.pdf) has been accepted to ECCV 2022.
