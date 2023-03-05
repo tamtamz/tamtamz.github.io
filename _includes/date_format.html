@@ -9,7 +9,7 @@ Here, add language specific date formats
 {% endcomment %}
 
 {% if site.lang == 'en' %}
-{% t month %} {{day}}, {{year}}
-{% elsif site.lang == 'pt-br' %}
-{{day}} de {% t month %}, {{year}}
+{% t month %}, {{year}}
+{% elsif site.lang == 'ja' %}
+{{year}}年{% t month %}
 {% endif %}

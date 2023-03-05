@@ -1,0 +1,1 @@
+電子情報通信学会 情報・システムソサイエティより[活動功労賞](https://www.ieice.org/iss/iss_r/jpn/award/koro_reiwa04/)を送られました。

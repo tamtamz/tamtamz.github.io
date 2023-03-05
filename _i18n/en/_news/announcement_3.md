@@ -1,1 +1,1 @@
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am recognized as [an outstanding reviewer](https://bmvc2022.org/people/reviewers/) in BMVC 2022.

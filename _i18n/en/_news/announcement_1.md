@@ -1,1 +1,1 @@
-A simple inline announcement.
+I receive [Distinguished Service Award](https://www.ieice.org/iss/iss_r/jpn/award/koro_reiwa04/) from IEICE Information and Systems Society.

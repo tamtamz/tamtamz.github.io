@@ -1,0 +1,93 @@
+- title: 学歴
+  type: time_table
+  contents:
+    - title: 修士（電子情報工学）
+      institution: 東京大学大学院 工学系研究科 電気系工学専攻
+      year: 2016
+      description:
+        - "指導教官: 池田 誠 教授"
+        - "研究内容: 楕円曲線署名生成回路のデジタル回路設計"
+    - title: 学士（工学）
+      institution: 東京大学 工学部 電子情報工学科
+      year: 2014
+      description:
+        - "指導教官: 池田 誠 教授"
+        - "研究内容: 非同期デジタル回路の設計"
+
+- title: 職歴
+  type: time_table
+  contents:
+    - title: Senior Researcher
+      institution: Hitachi America, Ltd.
+      year: 2021 - 現在
+      description:
+        - "研究内容: 画像認識を用いたインフラ検査"
+    - title: Senior Researcher
+      institution: 株式会社日立製作所
+      year: 2021 - 現在
+      description:
+        - "研究内容: 画像認識を用いたパブリックセーフティ向け技術"
+    - title: Researcher
+      institution: 株式会社日立製作所
+      year: 2016 - 2021
+      description:
+        - "研究内容: 画像認識を用いたパブリックセーフティ向け技術"
+
+- title: 表彰・受賞歴
+  type: time_table
+  contents:
+    - title: <a href="https://www.ieice.org/iss/iss_r/jpn/award/koro_reiwa04/">活動功労章</a>
+      year: 2022
+      description:
+        - 電子情報通信学会 情報・システムソサイエティ誌の編集幹事に関して
+    - title: <a href="https://bmvc2022.org/people/reviewers/">Outstanding Reviewer in BMVC 2022</a>
+      year: 2022
+      description:
+        - BMVC 2022の査読に関して、943人中75人(8%)のレビュワーが受賞
+    - title: <a href="https://www.bmvc2020-conference.com/people/reviewers/">Outstanding Reviewer in BMVC 2020</a>
+      year: 2020
+      description:
+        - BMVC 2020の査読に関して、980人中55人(6%)のレビュワーが受賞
+    - title: <a href="http://www.vdec.u-tokyo.ac.jp/designAward/awards/2016award.html">IEEE SSCS Japan Chapter VDEC Design Award</a>
+      year: 2016
+      description:
+        - 修士課程で行った256bit ECDSA 署名生成回路の設計に関して
+    - title: <a href="http://awards.tokyometroapp.jp/">10thメトロ賞</a>
+      year: 2015
+      description:
+        - 東京メトロオープンデータ活用コンテストした「うちカエル」というアンドロイド向けアプリに関して
+    - title: 優秀発表学生賞
+      year: 2014
+      description:
+        - 2014年5月のシステムとLSIの設計技術研究会における発表に関して
+        - <a href="https://www.ieice.org/publications/ken/summary.php?contribution_id=KJ00009760468">テクニカルレポート</a>
+    - title: 優秀卒業論文賞
+      year: 2014
+      description:
+        - 学士の卒業論文に関して
+    
+
+- title: 学術貢献活動
+  type: time_table
+  contents:
+    - title: 委員会
+      items:
+        - 電子情報通信学会 PRMU研究会 委員会メンバー [2018-2020]
+        - 電子情報通信学会 情報・システムソサイエティ誌 編集委員メンバーおよび編集幹事 [2018-2020]
+    - title: 査読
+      items:
+        - title: 論文誌
+          contents:
+            - IEEE Trans. on Intelligent Transportation Systems
+            - IEEE Trans. on Artificial Intelligence
+            - IEEE Trans. on Instrumentation and Measurement
+            - IEEE Trans. on Circuits and Systems for Video Technology
+            - Journal of Visual Communication and Image Representation
+            - "Signal Processing: Image Communication"
+            - Information Fusion
+            - IEICE Trans. on Information and Systems 
+        - title: 国際会議
+          contents:
+            - CVPR [2023]
+            - ECCV [2022]
+            - BMVC [2020-2022]

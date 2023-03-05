@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior researcher at [Hitachi, Ltd.](https://www.hitachi.com/) Research & Development Group, working on developing computer vision technologies. I am currently sent to [Hitachi America, Ltd.](https://www.hitachi.us/), a subsidiary of Hitachi, Ltd. in the US, and work with researchers in the US to extend the developed technologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I previously studied digital circuit design at the [Ikeda Lab](http://www.mos.t.u-tokyo.ac.jp/en/) of [the University of Tokyo](https://www.u-tokyo.ac.jp/en/), where I received BE and ME degrees under the supervision of [Prof. Makoto Ikeda](http://www.mos.t.u-tokyo.ac.jp/~ikeda/).

@@ -138,9 +138,11 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  //border-bottom: 1px solid var(--global-divider-color);
+  //background-color: var(--global-bg-color);
+  //opacity: 0.95;
+  border-bottom: 1px solid #424246;  
+  background-color: #1C1C1D;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -169,10 +171,12 @@ blockquote {
     }
   }
   .navbar-brand {
-    color: var(--global-text-color);
+    //color: var(--global-text-color);
+    color: #e8e8e8;
   }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    //color: var(--global-text-color);
+    color: #e8e8e8;
     &:hover {
       color: var(--global-hover-color);
     }
@@ -191,7 +195,8 @@ blockquote {
     font-size: 1.7rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        //color: var(--global-text-color);
+        color: #e8e8e8;
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
@@ -212,6 +217,7 @@ blockquote {
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
+    background-color: #e8e8e8;
   }
   .top-bar {
     transform: rotate(45deg);
@@ -479,7 +485,7 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: var(--global-divider-color);
+    //color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -724,3 +730,8 @@ progress {
      display: block;
      height: inherit;
  }
+
+.news table.table-sm th, table.table-sm td {
+  padding-top: 0;
+  padding-bottom: 0;
+}
