@@ -1,0 +1,1 @@
+[The Visual Computer](https://www.springer.com/journal/371/)にて[論文](https://link.springer.com/epdf/10.1007/s00371-023-02933-8?sharing_token=I__47A3mDibSgq0aOj1b3fe4RwlQNchNByi7wbcMAY7HvZaKfeJwvyCU1yVYZ6NDGkDiWF4HO27OGpNvbL5Vu3xFzLTmOifcPcTUX71ug2TaOKI4DTOB49jxHrz9cPC8HERDsVPj-mctenZLJsktPskSMv4Jb4Aw6uwmEljaIGs%3D)が公開されました.
