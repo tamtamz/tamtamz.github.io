@@ -24,7 +24,7 @@
         - "研究内容: 画像認識を用いたインフラ検査"
     - title: Senior Researcher
       institution: 株式会社日立製作所
-      year: 2021 - 現在
+      year: 2021 - 2023
       description:
         - "研究内容: 画像認識を用いたパブリックセーフティ向け技術"
     - title: Researcher
@@ -90,5 +90,6 @@
         - title: 国際会議
           contents:
             - CVPR [2023]
+            - ICCV [2023]
             - ECCV [2022]
-            - BMVC [2020-2022]
+            - BMVC [2020-2023]

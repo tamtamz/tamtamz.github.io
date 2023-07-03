@@ -24,7 +24,7 @@
         - "Research topic: Computer vision for infrastructure inspection"
     - title: Senior Researcher
       institution: Hitachi, Ltd.
-      year: 2021 - PRESENT
+      year: 2021 - 2023
       description:
         - "Research topic: Computer vision for public safety"
     - title: Researcher
@@ -90,5 +90,6 @@
         - title: Conference
           contents:
             - CVPR [2023]
+            - ICCV [2023]
             - ECCV [2022]
-            - BMVC [2020-2022]
+            - BMVC [2020-2023]
