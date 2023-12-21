@@ -1,1 +1,0 @@
-[筑波大学大学院](https://www.cs.tsukuba.ac.jp/) 博士後期課程に進学しました。

@@ -1,1 +1,0 @@
-BMVC 2023に[論文](https://papers.bmvc2023.org/0018.pdf)が採択されました。

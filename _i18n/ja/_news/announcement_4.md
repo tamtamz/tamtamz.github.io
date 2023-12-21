@@ -1,1 +1,0 @@
-開発に携わったAI映像解析ソリューションが[第５２回日本産業技術大賞で文部科学大臣賞](https://corp.nikkan.co.jp/p/honoring/nihonsangyogijyutsutaishou)を受賞しました。

@@ -1,1 +1,0 @@
-BMVC 2022で[outstanding reviewer](https://bmvc2022.org/people/reviewers/)に選ばれました。

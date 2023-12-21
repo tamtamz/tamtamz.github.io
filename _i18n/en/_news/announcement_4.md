@@ -1,1 +1,0 @@
-Our product "AI video analytics solution for public safety" receives [the Minister of Education Award at the 52nd Japan Industrial Technology Awards](https://corp.nikkan.co.jp/p/honoring/nihonsangyogijyutsutaishou) hosted by the Nikkan Kogyo Shimbun, Ltd.

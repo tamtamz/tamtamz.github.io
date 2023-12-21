@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tamtamz.github.io/ja/sitemap.xml
